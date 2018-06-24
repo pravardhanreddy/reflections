@@ -1,0 +1,1 @@
+the repository is initialised so that git can keep track of what happens in the files within the repository.
