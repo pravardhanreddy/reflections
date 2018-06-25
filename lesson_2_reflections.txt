@@ -1,3 +1,5 @@
 the repository is initialised so that git can keep track of what happens in the files within the repository.
 
 the staging area tells which files have been modified so we can only add the file whose logical change we want to include in the commit and then just commit it.
+
+Branching may help in creating different versions of the code and also help in organising changes into categories that are mutually exclusive.
