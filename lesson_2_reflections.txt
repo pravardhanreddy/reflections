@@ -1,1 +1,3 @@
 the repository is initialised so that git can keep track of what happens in the files within the repository.
+
+the staging area tells which files have been modified so we can only add the file whose logical change we want to include in the commit and then just commit it.
