@@ -5,3 +5,5 @@ the staging area tells which files have been modified so we can only add the fil
 Branching may help in creating different versions of the code and also help in organising changes into categories that are mutually exclusive.
 
 Branch diagrams helps keep work organised, immediately know which part of the program is misbehaving and make changes without affecting the properly working part of the project.
+
+Merging helps in combining works from different areas and add features to the program that have been on separate tracks. It facilitates in checking the work on different areas without interfering with each other.
