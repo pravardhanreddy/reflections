@@ -3,3 +3,5 @@ the repository is initialised so that git can keep track of what happens in the 
 the staging area tells which files have been modified so we can only add the file whose logical change we want to include in the commit and then just commit it.
 
 Branching may help in creating different versions of the code and also help in organising changes into categories that are mutually exclusive.
+
+Branch diagrams helps keep work organised, immediately know which part of the program is misbehaving and make changes without affecting the properly working part of the project.
