@@ -7,3 +7,5 @@ Branching may help in creating different versions of the code and also help in o
 Branch diagrams helps keep work organised, immediately know which part of the program is misbehaving and make changes without affecting the properly working part of the project.
 
 Merging helps in combining works from different areas and add features to the program that have been on separate tracks. It facilitates in checking the work on different areas without interfering with each other.
+
+Manual pulling is preferred as automatic pulling may result in conflicts and the process may error out. It gives us more control over what we are currently working with.
