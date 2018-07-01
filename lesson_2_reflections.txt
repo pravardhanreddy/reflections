@@ -9,3 +9,5 @@ Branch diagrams helps keep work organised, immediately know which part of the pr
 Merging helps in combining works from different areas and add features to the program that have been on separate tracks. It facilitates in checking the work on different areas without interfering with each other.
 
 Manual pulling is preferred as automatic pulling may result in conflicts and the process may error out. It gives us more control over what we are currently working with.
+
+Forks help us work on someone else's code without interfering with their workflow. Clone allows us to make a copy of the existing repository making it available wherever we need it. Branch helps in adding new features without actually affecting the original code.
